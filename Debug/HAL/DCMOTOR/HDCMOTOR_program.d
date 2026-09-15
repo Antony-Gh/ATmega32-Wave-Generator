@@ -1,0 +1,40 @@
+HAL/DCMOTOR/HDCMOTOR_program.o HAL/DCMOTOR/HDCMOTOR_program.o:  \
+ ../HAL/DCMOTOR/HDCMOTOR_program.c ../HAL/DCMOTOR/../../LIB/STD_TYPES.h \
+  ../HAL/DCMOTOR/../../MCAL/DIO/MDIO_interface.h \
+  ../HAL/DCMOTOR/../../MCAL/DIO/../../LIB/STD_TYPES.h \
+  ../HAL/DCMOTOR/../../MCAL/TIMER/MTIMER_interface.h \
+  ../HAL/DCMOTOR/../../MCAL/TIMER/../../LIB/STD_TYPES.h \
+  ../HAL/DCMOTOR/../../MCAL/TIMER/../../CONFIG/TIMER/MTIMER_config.h \
+  ../HAL/DCMOTOR/../../MCAL/TIMER/../../CONFIG/TIMER/../../LIB/STD_TYPES.h \
+  ../HAL/DCMOTOR/HDCMOTOR_interface.h \
+  ../HAL/DCMOTOR/../../CONFIG/DCMOTOR/HDCMOTOR_config.h \
+  ../HAL/DCMOTOR/../../CONFIG/DCMOTOR/../../LIB/STD_TYPES.h \
+  ../HAL/DCMOTOR/../../CONFIG/DCMOTOR/../../MCAL/DIO/MDIO_interface.h \
+  ../HAL/DCMOTOR/../../HW/DCMOTOR/HDCMOTOR_private.h \
+  ../HAL/DCMOTOR/../../HW/DCMOTOR/../../CONFIG/DCMOTOR/HDCMOTOR_config.h
+
+../HAL/DCMOTOR/../../LIB/STD_TYPES.h:
+
+../HAL/DCMOTOR/../../MCAL/DIO/MDIO_interface.h:
+
+../HAL/DCMOTOR/../../MCAL/DIO/../../LIB/STD_TYPES.h:
+
+../HAL/DCMOTOR/../../MCAL/TIMER/MTIMER_interface.h:
+
+../HAL/DCMOTOR/../../MCAL/TIMER/../../LIB/STD_TYPES.h:
+
+../HAL/DCMOTOR/../../MCAL/TIMER/../../CONFIG/TIMER/MTIMER_config.h:
+
+../HAL/DCMOTOR/../../MCAL/TIMER/../../CONFIG/TIMER/../../LIB/STD_TYPES.h:
+
+../HAL/DCMOTOR/HDCMOTOR_interface.h:
+
+../HAL/DCMOTOR/../../CONFIG/DCMOTOR/HDCMOTOR_config.h:
+
+../HAL/DCMOTOR/../../CONFIG/DCMOTOR/../../LIB/STD_TYPES.h:
+
+../HAL/DCMOTOR/../../CONFIG/DCMOTOR/../../MCAL/DIO/MDIO_interface.h:
+
+../HAL/DCMOTOR/../../HW/DCMOTOR/HDCMOTOR_private.h:
+
+../HAL/DCMOTOR/../../HW/DCMOTOR/../../CONFIG/DCMOTOR/HDCMOTOR_config.h:

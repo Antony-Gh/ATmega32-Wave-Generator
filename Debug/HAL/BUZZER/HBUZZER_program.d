@@ -1,0 +1,48 @@
+HAL/BUZZER/HBUZZER_program.o HAL/BUZZER/HBUZZER_program.o:  \
+ ../HAL/BUZZER/HBUZZER_program.c ../HAL/BUZZER/../../LIB/BIT_MATH.h \
+  ../HAL/BUZZER/../../LIB/STD_TYPES.h ../HAL/BUZZER/../../LIB/STD_TYPES.h \
+  ../HAL/BUZZER/../../CONFIG/BUZZER/HBUZZER_config.h \
+  ../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/DIO/MDIO_interface.h \
+  ../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/DIO/../../LIB/STD_TYPES.h \
+  ../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/MTIMER_interface.h \
+  ../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/../../LIB/STD_TYPES.h \
+  ../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/../../CONFIG/TIMER/MTIMER_config.h \
+  ../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/../../CONFIG/TIMER/../../LIB/STD_TYPES.h \
+  ../HAL/BUZZER/../../HW/BUZZER/HBUZZER_private.h \
+  ../HAL/BUZZER/../../HW/BUZZER/../../CONFIG/BUZZER/HBUZZER_config.h \
+  ../HAL/BUZZER/../../HW/BUZZER/../../CONFIG/TIMER/MTIMER_config.h \
+  ../HAL/BUZZER/../../MCAL/DIO/MDIO_interface.h \
+  ../HAL/BUZZER/../../MCAL/TIMER/MTIMER_interface.h \
+  ../HAL/BUZZER/HBUZZER_interface.h
+
+../HAL/BUZZER/../../LIB/BIT_MATH.h:
+
+../HAL/BUZZER/../../LIB/STD_TYPES.h:
+
+../HAL/BUZZER/../../LIB/STD_TYPES.h:
+
+../HAL/BUZZER/../../CONFIG/BUZZER/HBUZZER_config.h:
+
+../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/DIO/MDIO_interface.h:
+
+../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/DIO/../../LIB/STD_TYPES.h:
+
+../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/MTIMER_interface.h:
+
+../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/../../LIB/STD_TYPES.h:
+
+../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/../../CONFIG/TIMER/MTIMER_config.h:
+
+../HAL/BUZZER/../../CONFIG/BUZZER/../../MCAL/TIMER/../../CONFIG/TIMER/../../LIB/STD_TYPES.h:
+
+../HAL/BUZZER/../../HW/BUZZER/HBUZZER_private.h:
+
+../HAL/BUZZER/../../HW/BUZZER/../../CONFIG/BUZZER/HBUZZER_config.h:
+
+../HAL/BUZZER/../../HW/BUZZER/../../CONFIG/TIMER/MTIMER_config.h:
+
+../HAL/BUZZER/../../MCAL/DIO/MDIO_interface.h:
+
+../HAL/BUZZER/../../MCAL/TIMER/MTIMER_interface.h:
+
+../HAL/BUZZER/HBUZZER_interface.h:

@@ -1,0 +1,31 @@
+SERVICES/RTOS/RTOS_program.o SERVICES/RTOS/RTOS_program.o:  \
+ ../SERVICES/RTOS/RTOS_program.c ../SERVICES/RTOS/../../LIB/BIT_MATH.h \
+  ../SERVICES/RTOS/../../LIB/STD_TYPES.h \
+  ../SERVICES/RTOS/../../LIB/STD_TYPES.h \
+  ../SERVICES/RTOS/../../MCAL/TIMER/MTIMER_interface.h \
+  ../SERVICES/RTOS/../../MCAL/TIMER/../../LIB/STD_TYPES.h \
+  ../SERVICES/RTOS/../../MCAL/TIMER/../../CONFIG/TIMER/MTIMER_config.h \
+  ../SERVICES/RTOS/../../MCAL/TIMER/../../CONFIG/TIMER/../../LIB/STD_TYPES.h \
+  ../SERVICES/RTOS/../../CONFIG/RTOS/RTOS_config.h \
+  ../SERVICES/RTOS/../../HW/RTOS/RTOS_private.h \
+  ../SERVICES/RTOS/RTOS_interface.h
+
+../SERVICES/RTOS/../../LIB/BIT_MATH.h:
+
+../SERVICES/RTOS/../../LIB/STD_TYPES.h:
+
+../SERVICES/RTOS/../../LIB/STD_TYPES.h:
+
+../SERVICES/RTOS/../../MCAL/TIMER/MTIMER_interface.h:
+
+../SERVICES/RTOS/../../MCAL/TIMER/../../LIB/STD_TYPES.h:
+
+../SERVICES/RTOS/../../MCAL/TIMER/../../CONFIG/TIMER/MTIMER_config.h:
+
+../SERVICES/RTOS/../../MCAL/TIMER/../../CONFIG/TIMER/../../LIB/STD_TYPES.h:
+
+../SERVICES/RTOS/../../CONFIG/RTOS/RTOS_config.h:
+
+../SERVICES/RTOS/../../HW/RTOS/RTOS_private.h:
+
+../SERVICES/RTOS/RTOS_interface.h:

@@ -1,0 +1,19 @@
+MCAL/EEPROM/MEEPROM_program.o MCAL/EEPROM/MEEPROM_program.o:  \
+ ../MCAL/EEPROM/MEEPROM_program.c ../MCAL/EEPROM/../../LIB/BIT_MATH.h \
+  ../MCAL/EEPROM/../../LIB/STD_TYPES.h \
+  ../MCAL/EEPROM/../../LIB/STD_TYPES.h \
+  ../MCAL/EEPROM/../../CONFIG/EEPROM/MEEPROM_config.h \
+  ../MCAL/EEPROM/../../HW/EEPROM/MEEPROM_private.h \
+  ../MCAL/EEPROM/MEEPROM_interface.h
+
+../MCAL/EEPROM/../../LIB/BIT_MATH.h:
+
+../MCAL/EEPROM/../../LIB/STD_TYPES.h:
+
+../MCAL/EEPROM/../../LIB/STD_TYPES.h:
+
+../MCAL/EEPROM/../../CONFIG/EEPROM/MEEPROM_config.h:
+
+../MCAL/EEPROM/../../HW/EEPROM/MEEPROM_private.h:
+
+../MCAL/EEPROM/MEEPROM_interface.h:
