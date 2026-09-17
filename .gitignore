@@ -1,0 +1,9 @@
+
+
+**/Debug/**
+
+*.workspace
+*.log
+*.sym
+*.o
+*.mk
